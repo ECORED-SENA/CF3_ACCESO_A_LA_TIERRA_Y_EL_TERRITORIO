@@ -51,16 +51,16 @@
               ul.lista-ul--color.mb-0.ms-3
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 Baño convencional: Funciona con agua.
+                  p.mb-0 Baño convencional: funciona con agua.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 Baño ecológico o seco: No utiliza agua y transforma los desechos en abono (compost) para siembra.
+                  p.mb-0 Baño ecológico o seco: no utiliza agua y transforma los desechos en abono (compost) para siembra.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
                 img(src="@/assets/curso/tema2/5.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Manejo de aguas residualesBaños y/o letrinas higiénicas
+              h5 Manejo de aguas residuales baños y/o letrinas higiénicas
               p Se refiere al tratamiento adecuado de las aguas provenientes del baño, ducha, cocina y lavadero. Su descarga directa contamina aire, suelo, fauna y agua.
               p Opciones correctas:
               ul.lista-ul--color.mb-0.ms-3
@@ -77,16 +77,16 @@
               ul.lista-ul--color.mb-0.ms-3
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 No verter aceites ni residuos de animales
+                  p.mb-0 No verter aceites ni residuos de animales.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 Evitar productos químicos nocivos
+                  p.mb-0 Evitar productos químicos nocivos.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 Usar jabones ecológicos
+                  p.mb-0 Usar jabones ecológicos.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 Mantener pozos sépticos en buen estado
+                  p.mb-0 Mantener pozos sépticos en buen estado.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -126,7 +126,7 @@
               ul.lista-ul--color.mb-0.ms-3
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 <b>Higiene personal</b>: lavado correcto de manos, baño regular, cuidado dental, uso de ropa limpia
+                  p.mb-0 <b>Higiene personal</b>: lavado correcto de manos, baño regular, cuidado dental, uso de ropa limpia.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
                   p.mb-0 <b>Higiene alimentaria:</b> lavado y almacenamiento adecuado de alimentos, cocción completa.
@@ -138,7 +138,7 @@
                   p.mb-0 <b>Higiene del entorno</b>: manejo correcto de residuos, control de plagas, limpieza de viviendas.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 <b>Prevención de enfermedades</b>: vacunación, visitas médicas, prácticas seguras en el trabajo agrícola
+                  p.mb-0 <b>Prevención de enfermedades</b>: vacunación, visitas médicas, prácticas seguras en el trabajo agrícola.
 
     p.mb-5 La importancia del saneamiento básico es: 
 
@@ -163,7 +163,7 @@
               p.mb-0 Fortalece la conciencia comunitaria y promueve el desarrollo sostenible.
             li.mb-2.d-flex
               i.fas.fa-leaf.bg-color-7
-              p.mb-0 Es parte fundamental de los <b>derechos humanos y del desarrollo de una comunidad</b>
+              p.mb-0 Es parte fundamental de los <b>derechos humanos y del desarrollo de una comunidad.</b>
     
     separador
     
@@ -201,7 +201,7 @@
           .bg-color-26.w-100
             .p-4.text-center
               h5 Energía hidráulica 
-          p.mb-0.bg-color-27.p-4 Agua en movimiento - hidroeléctricas
+          p.mb-0.bg-color-27.p-4 Agua en movimiento - hidroeléctricas.
       .col-md-6.col-lg-3.mb-3.mb-lg-0
         .tarjeta-avatar.pst
           img(src='@/assets/curso/tema2/11.svg', style="max-width: 90px" alt='AvatarTop')
@@ -211,7 +211,7 @@
           .bg-color-26.w-100
             .p-4.text-center
               h5 Energía térmica 
-          p.mb-0.bg-color-27.p-3.p-xl-4 Combustión de carbón, gas o petróleo - termoeléctricas
+          p.mb-0.bg-color-27.p-3.p-xl-4 Combustión de carbón, gas o petróleo - termoeléctricas.
       .col-md-6.col-lg-3.mb-3.mb-lg-0
         .tarjeta-avatar.pst
           img(src='@/assets/curso/tema2/12.svg', style="max-width: 90px" alt='AvatarTop')
@@ -221,7 +221,7 @@
           .bg-color-26.w-100
             .p-4.text-center
               h5 Energía solar 
-          p.mb-0.bg-color-27.p-4 Luz del sol - paneles o plantas solares
+          p.mb-0.bg-color-27.p-4 Luz del sol - paneles o plantas solares.
 
     p.mb-5 La electricidad es un servicio básico y un indicador de bienestar. En el contexto actual, es indispensable para estudiar, comunicarse, acceder a servicios de salud y operar herramientas que facilitan el trabajo. Por ello, se considera un derecho esencial, especialmente cuando está vinculado a otros derechos fundamentales como:
 
@@ -245,7 +245,7 @@
               i.fas.fa-leaf.bg-color-7
               p.mb-0 El derecho al desarrollo social y económico.
     
-    p.mb-5 Aunque no siempre se menciona de forma literal como “derecho a la electricidad” en las constituciones, muchos países incluido Colombia, reconocen el acceso a los servicios públicos esenciales como parte del conjunto de los derechos fundamentales. El acceso a la electricidad es indispensable para el desarrollo, el bienestar y el funcionamiento de casi todas las actividades humanas. Sin este servicio, muchas tareas cotidianas serían más difíciles o incluso imposibles.
+    p.mb-5 Aunque no siempre se menciona de forma literal como “derecho a la electricidad” en las constituciones, muchos países, incluido Colombia, reconocen el acceso a los servicios públicos esenciales como parte del conjunto de los derechos fundamentales. El acceso a la electricidad es indispensable para el desarrollo, el bienestar y el funcionamiento de casi todas las actividades humanas. Sin este servicio, muchas tareas cotidianas serían más difíciles o incluso imposibles.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

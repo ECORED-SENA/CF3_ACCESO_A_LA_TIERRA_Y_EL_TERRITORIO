@@ -211,7 +211,7 @@
           .bg-color-white.p-4.h-100.shadow-app
             img(src='@/assets/curso/tema3/16.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4.bg-color-6.p-2 Grasas (lípidos)
-            p.text-center Aportan energía concentrada y cumplen funciones celulares. Ejemplos: aceites, aguacate, frutos secos, mantequilla.idad.
+            p.text-center Aportan energía concentrada y cumplen funciones celulares. Ejemplos: aceites, aguacate, frutos secos, mantequilla.
           .bg-color-white.p-4.h-100.shadow-app
             img(src='@/assets/curso/tema3/17.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
             h4.text-center.mb-4.bg-color-6.p-2 Vitaminas
@@ -401,7 +401,7 @@
                   p.mb-0 Acceso a fuentes de agua no contaminadas para consumo humano, riego, ganado y cultivos.
                 li.mb-2.d-flex
                   i.fas.fa-leaf.bg-color-7
-                  p.mb-0 Promoción de la protección y recuperación de nacimientos, quebradas, ríos y humedales
+                  p.mb-0 Promoción de la protección y recuperación de nacimientos, quebradas, ríos y humedales.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -549,7 +549,7 @@
                 img(src="@/assets/curso/tema3/35.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Costo asequible
-              p Tarifas proporcionales al ingreso rural, con subsidios o tarifas diferenciadas para grupos vulnerables (campesinos, niños, adultos mayores, estudiantes, entre otros.).
+              p Tarifas proporcionales al ingreso rural, con subsidios o tarifas diferenciadas para grupos vulnerables (campesinos, niños, adultos mayores, estudiantes, entre otros).
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure

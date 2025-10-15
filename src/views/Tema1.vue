@@ -73,7 +73,7 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.bg-color-23.w-100
             .p-4.text-center
-              p.mb-0 Cobertura de servicios básicos
+              p.mb-0 Organización comunitaria
       .col-md-6.col-lg-3.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/6.svg', style="max-width: 90px" alt='AvatarTop')
@@ -82,7 +82,7 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.bg-color-info.w-100
             .p-4.text-center
-              p.mb-0 Cobertura de servicios básicos
+              p.mb-0 Sostenibilidad ambiental
 
     
 
