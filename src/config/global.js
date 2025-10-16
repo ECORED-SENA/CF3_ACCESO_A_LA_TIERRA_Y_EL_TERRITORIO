@@ -269,7 +269,8 @@ export default {
         {
           nombre: 'Ana Cecilia Diaz Espinosa',
           cargo: 'Experta temática',
-          centro: 'Centro Agroecológico y Empresarial Fusagasugá - Regional Cundinamarca',
+          centro:
+            'Centro Agroecológico y Empresarial Fusagasugá - Regional Cundinamarca',
         },
         {
           nombre: 'Paola Alexandra Moya ',
